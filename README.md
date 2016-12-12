@@ -8,7 +8,7 @@ The delta project started in 1953, twenty days after the flooding. The aim of th
 The aim of this project is to predict the number of hard disks that fail during the first week of 2016 at the Delta center in the Netherlands. For this task, I analyze the measurements of different hard disks’ features  during the year of 2015.
 
 This repository contains the following files:
-- Capstone_milestone_report.pdf: File that explains all the data analysis that was carried out to make the predictions. 
+- Capstone_report.pdf: File that explains all the data analysis that was carried out to make the predictions. 
 
 - Capstone project_proposal_CAMartinez.pdf: the introduction of the problem and the database used to make the analysis and predictions.
 
@@ -17,5 +17,7 @@ This repository contains the following files:
 - exploratory_data_analysis.ipynb: script that makes a exploratory analysis of data.
 
 - statistical_analysis.ipynb: script that makes a statistical analysis of the data. In particular, it looks for the features where the distribution of failed disks is different from the distribution of working disks.
+
+- machine_learning.ipynb: script that uses different machine learning techniques to predict the failed hard drives at the delta center in the Netherlands.
 
 
