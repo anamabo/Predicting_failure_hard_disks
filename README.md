@@ -20,4 +20,4 @@ This repository contains the following files:
 
 - machine_learning.ipynb: script that uses different machine learning techniques to predict the failed hard drives at the delta center in the Netherlands.
 
-
+- final_presentation: slide deck of the project. 
